@@ -15,3 +15,5 @@ Our door locks were made using Raspberry Pi, Pi camera, Open CV, and APP Invento
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Introduce & Motivation
+ 
+ office workers or researchers, They feel a lot of inconveniences in the entrance digital door lock of the lab or office. Because the doors are always locked when you leave the lab or office for a short period of time. So If the door is locked, it becomes inconvenient to have a password or fingerprint recognition every time you enter the office again. This inconvenience makes office door is open all the time, and it is said that it feels a lot of anxiety about security psychologically because a lot of worms or handlers come in.
