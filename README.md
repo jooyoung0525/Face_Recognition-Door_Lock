@@ -14,4 +14,4 @@ Our door locks were made using Raspberry Pi, Pi camera, Open CV, and APP Invento
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2. Introduce & Motivation
+## 2. Introduce & Motivation
