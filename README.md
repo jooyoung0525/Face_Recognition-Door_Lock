@@ -61,3 +61,12 @@ so, we are used double-security by appending an employee number login APP to the
 *2. The price is very expensive. (About 2 million won)*
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 4. A difficult point
+
+
+Face recognition is vulnerable security if you can not compensate this problems because it can be face recognition only with photo.
+Many ideas came out to secure these weaknesses. Among them, we set boundary value for recognition rate when we perform face recognition. The threshold was set at 45% accuracy and the door lock was set to open only when the threshold was exceeded. We also created an app for double security. The app logs in with an employee number and sets face recognition door locks to work only when the login is successful. The process of collecting data for accurate face recognition took a long time and was difficult. We also had to control the app, raspberry pie, and door lock so there was a lot of trial and error in connecting software and hardware.
+
+
