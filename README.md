@@ -24,7 +24,9 @@ so, we are used double-security by appending an employee number login APP to the
 ## 3. Disadvantages of existing door locks
 
 
-**Digital Door Lock:**
+***-Digital Door Lock:**
+
+
 *1. If you can not use both hands, it is difficult to press the button.*
 
 *2. It is very easy to find your password, so you are always exposed to the risk of crime.*
@@ -32,7 +34,9 @@ so, we are used double-security by appending an employee number login APP to the
 *3. It is possible to give a hint when a certain button is worn or dirty because of long use.*
 
 
-**Fingerprint Door Lock:**
+**-Fingerprint Door Lock:**
+
+
 *1. Easy to copy fingerprints.*
 
 *2. The fingerprint recognition rate drops due to palmar hyperhidrosis, water in your hand, or long-term use.*
@@ -41,7 +45,9 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 
-**Existing face recognition door lock:**
+**-Existing face recognition door lock:**
+
+
 *1.People with similar faces or photographs can open the door. So, Security is weak.*
 
 *2. The price is very expensive. (About 2 million won)*
