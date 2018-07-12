@@ -107,7 +107,7 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 *3. When preprocessing, make the photos the same size and convert them to black and white.
 (Even better face recognition)*
 
-*4. Use of library of opencv ...*
+*4. Training Code use of library of opencv cascade_classifier*
 
 *5. The face recognition code is divided into day and night (double security). In the daytime, it uses the learned data to recognize the face. At night, it logs in with the app first. Then, when the face recognizes, the door lock is opened.*
 
