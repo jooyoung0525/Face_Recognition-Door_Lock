@@ -94,3 +94,20 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 
 *- PI camera*
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+## 7. Result
+
+At the time when employees go to the office (9:00 AM~18:00 PM), facial recognition can be used to control door access, which eliminates the inconvenience of passwords and fingerprint recognition for employees entering and exiting. Also, it is possible to control the entrance of peddler because it is secured by face recognition of employees. Security is important for employees when they leave the office (18:00 PM - 9:00 AM), so double security is implemented. Double security allows only company employees to log in to an employee number from an app, and face recognition can open the door if the login is successful.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 8. Video
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+## 9. Reference
