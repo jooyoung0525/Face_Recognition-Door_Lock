@@ -3,11 +3,8 @@
 
 
 <div>
-
 ![1](https://user-images.githubusercontent.com/29946480/42638465-ac6ee44e-8628-11e8-91e4-b1b6b9156a3c.png)
-
 ![2](https://user-images.githubusercontent.com/29946480/42638466-ac9670d6-8628-11e8-99e5-c7e7fde5e105.png)
-
 </div>
 
 
@@ -37,13 +34,15 @@ so, we are used double-security by appending an employee number login APP to the
 ## 3. Disadvantages of existing door locks
 
 
+<div>
+![default](https://user-images.githubusercontent.com/29946480/42637741-ee0190de-8626-11e8-9555-1573b6da4523.JPG)
+![default](https://user-images.githubusercontent.com/29946480/42637763-f713f1da-8626-11e8-8ad3-83a1713a80db.JPG)
+![default](https://user-images.githubusercontent.com/29946480/42637773-fbbad0aa-8626-11e8-8461-48763701a1d5.JPG)
+</div>
 
 
 **● Digital Door Lock:**
 
-
-
-![default](https://user-images.githubusercontent.com/29946480/42637741-ee0190de-8626-11e8-9555-1573b6da4523.JPG)
 
 
 *1. If you can not use both hands, it is difficult to press the button.*
@@ -59,9 +58,6 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 
-![default](https://user-images.githubusercontent.com/29946480/42637763-f713f1da-8626-11e8-8ad3-83a1713a80db.JPG)
-
-
 *1. Easy to copy fingerprints.*
 
 *2. The fingerprint recognition rate drops due to palmar hyperhidrosis, water in your hand, or long-term use.*
@@ -73,11 +69,6 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 **● Existing face recognition door lock:**
-
-
-
-![default](https://user-images.githubusercontent.com/29946480/42637773-fbbad0aa-8626-11e8-8461-48763701a1d5.JPG)
-
 
 
 
@@ -101,6 +92,9 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 
 **▶ SoftWare (SW)**
 
+![default](https://user-images.githubusercontent.com/29946480/42637879-33c7ecd0-8627-11e8-9d1f-bc0c48ae355c.JPG)
+
+
 *- APP_Inventor*
 
 *- Open CV*
@@ -110,6 +104,10 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 
 
 **▶ HardWare (HW)**
+
+
+![default](https://user-images.githubusercontent.com/29946480/42637889-389366f4-8627-11e8-8287-05e7e222f5de.JPG)
+
 
 *- Door Lock*
 
@@ -156,8 +154,21 @@ At the time when employees go to the office (9:00 AM~18:00 PM), facial recogniti
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+## 8. Activity Photo
 
-## 8. Reference
+
+<div>
+![1](https://user-images.githubusercontent.com/29946480/42637818-13a1fec8-8627-11e8-91cd-52eab3b0f2b2.jpg)
+![2](https://user-images.githubusercontent.com/29946480/42637837-19f85984-8627-11e8-867b-b39ab022e19a.jpg)
+![1](https://user-images.githubusercontent.com/29946480/42637850-233c9154-8627-11e8-819a-e7d986900e9d.jpg)
+</div>
+
+<div>
+![default](https://user-images.githubusercontent.com/29946480/42637903-4157f78c-8627-11e8-810e-915feefb0d22.jpg)
+![2](https://user-images.githubusercontent.com/29946480/42637911-46ea1400-8627-11e8-8706-a8a874142d31.jpg)
+</div>
+---------------------------------------------------------------------------------------------------------------------------------------
+## 9. Reference
 
 
 
