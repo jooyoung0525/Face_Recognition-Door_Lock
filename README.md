@@ -100,6 +100,19 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 ## 5. How to make
 
 
+*1. Install openCV on raspberry pie.*
+
+*2. Write preprocessing code, training code, actual implementation (day, night) code.*
+
+*3. When preprocessing, make the photos the same size and convert them to black and white.
+(Even better face recognition)*
+
+*4. Use of library of opencv ...*
+
+*5. The face recognition code is divided into day and night (double security). In the daytime, it uses the learned data to recognize the face. At night, it logs in with the app first. Then, when the face recognizes, the door lock is opened.*
+
+*6. I used App Inventor to create an app and GPIO and web on webiopi so that my app can control GPIO.*
+
 
 
 
