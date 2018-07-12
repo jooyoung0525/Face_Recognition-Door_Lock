@@ -151,6 +151,7 @@ At the time when employees go to the office (9:00 AM~18:00 PM), facial recogniti
 ## 7. Video
 
 
+[![Alt text for your video](https://img.youtube.com/vi/NYV56jPs7io/0.jpg)](https://www.youtube.com/watch?v=NYV56jPs7io)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## 8. Activity Photo
