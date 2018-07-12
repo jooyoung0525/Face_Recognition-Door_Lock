@@ -77,12 +77,20 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 **▶ SoftWare (SW)**
 
 *- APP_Inventor*
+
 *- Open CV*
-*PI camera*
+
+*- PI camera*
+
 
 
 **▶ HardWare (HW)**
 
-*Raspberry PI*
-*Relay Module*
-*PI camera*
+*- Door Lock*
+
+*- Raspberry PI*
+
+*- Relay Module*
+
+*- PI camera*
+
