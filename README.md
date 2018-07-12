@@ -94,6 +94,7 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 
 ## 4. Used tools
 
+
 **▶ SoftWare (SW)**
 
 ![default](https://user-images.githubusercontent.com/29946480/42637879-33c7ecd0-8627-11e8-9d1f-bc0c48ae355c.JPG)
@@ -134,12 +135,17 @@ Many ideas came out to secure these weaknesses. Among them, we set boundary valu
 *3. When preprocessing, make the photos the same size and convert them to black and white.
 (Even better face recognition)*
 
+![default](https://user-images.githubusercontent.com/29946480/42637929-50942c0c-8627-11e8-976e-c7f8e359b84a.jpg)
+
 *4. Training Code use of library of opencv cascade_classifier*
+
+![default](https://user-images.githubusercontent.com/29946480/42637937-56159706-8627-11e8-8122-4c6b340e8ec2.jpg)
 
 *5. The face recognition code is divided into day and night (double security). In the daytime, it uses the learned data to recognize the face. At night, it logs in with the app first. Then, when the face recognizes, the door lock is opened.*
 
 *6. I used App Inventor to create an app and GPIO and web on webiopi so that my app can control GPIO.*
 
+![kakaotalk_20180712_223839924](https://user-images.githubusercontent.com/29946480/42637862-2a1d026a-8627-11e8-8a40-087c3ac0cb93.jpg)
 
 
 
@@ -171,11 +177,16 @@ At the time when employees go to the office (9:00 AM~18:00 PM), facial recogniti
 
 <div>
  
+![default](https://user-images.githubusercontent.com/29946480/42637951-5c941d5a-8627-11e8-8379-dd63a13532d5.jpg)
 ![default](https://user-images.githubusercontent.com/29946480/42637903-4157f78c-8627-11e8-810e-915feefb0d22.jpg)
 ![2](https://user-images.githubusercontent.com/29946480/42637911-46ea1400-8627-11e8-8706-a8a874142d31.jpg)
 
 </div>
----------------------------------------------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 9. Reference
 
 
