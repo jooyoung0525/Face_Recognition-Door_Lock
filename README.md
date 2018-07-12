@@ -37,9 +37,11 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 <div>
+ 
 ![default](https://user-images.githubusercontent.com/29946480/42637741-ee0190de-8626-11e8-9555-1573b6da4523.JPG)
 ![default](https://user-images.githubusercontent.com/29946480/42637763-f713f1da-8626-11e8-8ad3-83a1713a80db.JPG)
 ![default](https://user-images.githubusercontent.com/29946480/42637773-fbbad0aa-8626-11e8-8461-48763701a1d5.JPG)
+
 </div>
 
 
@@ -160,14 +162,18 @@ At the time when employees go to the office (9:00 AM~18:00 PM), facial recogniti
 
 
 <div>
+ 
 ![1](https://user-images.githubusercontent.com/29946480/42637818-13a1fec8-8627-11e8-91cd-52eab3b0f2b2.jpg)
 ![2](https://user-images.githubusercontent.com/29946480/42637837-19f85984-8627-11e8-867b-b39ab022e19a.jpg)
 ![1](https://user-images.githubusercontent.com/29946480/42637850-233c9154-8627-11e8-819a-e7d986900e9d.jpg)
+
 </div>
 
 <div>
+ 
 ![default](https://user-images.githubusercontent.com/29946480/42637903-4157f78c-8627-11e8-810e-915feefb0d22.jpg)
 ![2](https://user-images.githubusercontent.com/29946480/42637911-46ea1400-8627-11e8-8706-a8a874142d31.jpg)
+
 </div>
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## 9. Reference
