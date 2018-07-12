@@ -2,12 +2,8 @@
 
 
 
-<div>
- 
-![1](https://user-images.githubusercontent.com/29946480/42638465-ac6ee44e-8628-11e8-91e4-b1b6b9156a3c.png)
-![2](https://user-images.githubusercontent.com/29946480/42638466-ac9670d6-8628-11e8-99e5-c7e7fde5e105.png)
-
-</div>
+<div>![1](https://user-images.githubusercontent.com/29946480/42638465-ac6ee44e-8628-11e8-91e4-b1b6b9156a3c.png)
+![2](https://user-images.githubusercontent.com/29946480/42638466-ac9670d6-8628-11e8-99e5-c7e7fde5e105.png)</div>
 
 
 **- Edison_Program(During Summer_Vacation)** **:** **Incheon_University,Electronic_Engineering**
@@ -36,13 +32,6 @@ so, we are used double-security by appending an employee number login APP to the
 ## 3. Disadvantages of existing door locks
 
 
-<div>
- 
-![default](https://user-images.githubusercontent.com/29946480/42637741-ee0190de-8626-11e8-9555-1573b6da4523.JPG)
-![default](https://user-images.githubusercontent.com/29946480/42637763-f713f1da-8626-11e8-8ad3-83a1713a80db.JPG)
-![default](https://user-images.githubusercontent.com/29946480/42637773-fbbad0aa-8626-11e8-8461-48763701a1d5.JPG)
-
-</div>
 
 
 **● Digital Door Lock:**
