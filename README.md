@@ -2,6 +2,13 @@
 
 **- Edison_Program(During Summer_Vacation)** **:** **Incheon_University,Electronic_Engineering**
 
+
+<div>
+ ![1](https://user-images.githubusercontent.com/29946480/42637777-00805fc4-8627-11e8-9714-8ebe53d34ddd.jpg)
+ ![2](https://user-images.githubusercontent.com/29946480/42637789-05abacec-8627-11e8-8023-b7ffa9405286.jpg)
+ </div>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1. Abstract
@@ -31,6 +38,10 @@ so, we are used double-security by appending an employee number login APP to the
 **● Digital Door Lock:**
 
 
+
+![default](https://user-images.githubusercontent.com/29946480/42637741-ee0190de-8626-11e8-9555-1573b6da4523.JPG)
+
+
 *1. If you can not use both hands, it is difficult to press the button.*
 
 *2. It is very easy to find your password, so you are always exposed to the risk of crime.*
@@ -41,6 +52,10 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 **● Fingerprint Door Lock:**
+
+
+
+![default](https://user-images.githubusercontent.com/29946480/42637763-f713f1da-8626-11e8-8ad3-83a1713a80db.JPG)
 
 
 *1. Easy to copy fingerprints.*
@@ -54,6 +69,12 @@ so, we are used double-security by appending an employee number login APP to the
 
 
 **● Existing face recognition door lock:**
+
+
+
+![default](https://user-images.githubusercontent.com/29946480/42637773-fbbad0aa-8626-11e8-8461-48763701a1d5.JPG)
+
+
 
 
 *1.People with similar faces or photographs can open the door. So, Security is weak.*
