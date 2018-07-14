@@ -2,7 +2,8 @@
 
 
 ![kakaotalk_20180713_160226614](https://user-images.githubusercontent.com/29946480/42722307-abffba76-8784-11e8-9207-45fdf57c2797.jpg)
-
+![kakaotalk_20180713_160227124](https://user-images.githubusercontent.com/29946480/42722343-81c66fb0-8785-11e8-8fcf-a235afd76303.jpg)
+![kakaotalk_20180713_135806970](https://user-images.githubusercontent.com/29946480/42722346-91dfc2e8-8785-11e8-90b3-3105d5628fc1.jpg)
 
 **- Edison_Program(During Summer_Vacation)** **:** **Incheon_University,Electronic_Engineering**
 
